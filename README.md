@@ -37,31 +37,45 @@
 
 ---
 
-🖐️ Gesture Mappings
+**🖐️ Gesture Mappings**
 Gesture	Action
+
 Index finger only	Move mouse
+
 Index + Thumb pinch	Left click
+
 Middle + Thumb pinch	Right click
+
 Thumb + Index + Middle pinch	Double click
+
 Thumb close to Index & Middle	Take screenshot
+
 Index above/below Middle	Scroll up/down
 
-📁 Project Structure
-bash
-Copy code
+**📁 Project Structure
+**
+
 AirMouse/
 │
 ├── gesture_controlled_mouse.py  # Main gesture control script
+
 ├── util.py                      # Utility functions for angles and distances
+
 ├── requirements.txt             # Python dependencies
+
 ├── .gitignore                   # Ignores virtual environment folders
+
 ├── README.md                    # Project documentation
+
 └── LICENSE                      # Project license
-📄 License
+
+**📄 License**
+
 This project is licensed under the MIT License — feel free to use, modify, and distribute it.
 
-💡 Credits
+💡 **Credits**
 Developed by Ayushi Jha
+
 Powered by MediaPipe and OpenCV
 
 ## 🚀 Installation
